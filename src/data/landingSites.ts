@@ -271,3 +271,4 @@ export const LANDING_SITES: LandingSite[] = [
 ];
 
 export const DEFAULT_SITE = LANDING_SITES[1]; // Shackleton Rim
+

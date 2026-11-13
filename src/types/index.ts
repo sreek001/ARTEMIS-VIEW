@@ -184,3 +184,4 @@ export const THEME = {
   emerald: '#10B981',
   emeraldGlow: 'rgba(16, 185, 129, 0.35)',
 } as const;
+
